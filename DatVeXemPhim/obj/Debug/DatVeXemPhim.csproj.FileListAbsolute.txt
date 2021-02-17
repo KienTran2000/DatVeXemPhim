@@ -8,3 +8,6 @@ E:\KI_1_NAM3\KI1_NAM3_kien\C#\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.c
 E:\KI_1_NAM3\KI1_NAM3_kien\C#\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.exe
 E:\KI_1_NAM3\KI1_NAM3_kien\C#\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.pdb
 E:\KI_1_NAM3\KI1_NAM3_kien\C#\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.Form2.resources
+E:\KI_1_NAM3\KI1_NAM3_kien\C#\BAITAP\DatVeXemPhim\DatVeXemPhim\bin\Debug\DatVeXemPhim.exe.config
+E:\KI_1_NAM3\KI1_NAM3_kien\C#\BAITAP\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.exe
+E:\KI_1_NAM3\KI1_NAM3_kien\C#\BAITAP\DatVeXemPhim\DatVeXemPhim\obj\Debug\DatVeXemPhim.pdb
