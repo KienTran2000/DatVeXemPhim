@@ -26,7 +26,7 @@ namespace DatVeXemPhim
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (comboBox1.Text == "Iron man with Spiderman")
+            if (comboBox1.Text == "Iron man3 vs BatMan")
             {
                 listItem = new List<string>()
                 {
